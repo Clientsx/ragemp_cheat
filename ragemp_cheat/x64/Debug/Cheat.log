@@ -1,0 +1,144 @@
+﻿  memory.cpp
+D:\DXSDK10\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+D:\DXSDK10\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+D:\DXSDK10\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+D:\DXSDK10\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+D:\DXSDK10\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+D:\DXSDK10\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+D:\DXSDK10\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+D:\DXSDK10\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+D:\DXSDK10\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+D:\DXSDK10\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+D:\DXSDK10\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+D:\DXSDK10\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+D:\DXSDK10\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+D:\DXSDK10\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+D:\DXSDK10\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+D:\DXSDK10\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+D:\DXSDK10\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+D:\DXSDK10\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+D:\DXSDK10\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+D:\DXSDK10\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+D:\DXSDK10\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+D:\DXSDK10\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+D:\DXSDK10\Include\d3d11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+D:\DXSDK10\Include\d3d11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+D:\DXSDK10\Include\d3d11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+D:\DXSDK10\Include\d3d11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+D:\DXSDK10\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+D:\DXSDK10\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  visuals.cpp
+D:\DXSDK10\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+D:\DXSDK10\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+D:\DXSDK10\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+D:\DXSDK10\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+D:\DXSDK10\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+D:\DXSDK10\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+D:\DXSDK10\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+D:\DXSDK10\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+D:\DXSDK10\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+D:\DXSDK10\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+D:\DXSDK10\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+D:\DXSDK10\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+D:\DXSDK10\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+D:\DXSDK10\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+D:\DXSDK10\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+D:\DXSDK10\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+D:\DXSDK10\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+D:\DXSDK10\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+D:\DXSDK10\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+D:\DXSDK10\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+D:\DXSDK10\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+D:\DXSDK10\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+D:\DXSDK10\Include\d3d11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+D:\DXSDK10\Include\d3d11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+D:\DXSDK10\Include\d3d11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+D:\DXSDK10\Include\d3d11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+D:\DXSDK10\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+D:\DXSDK10\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+D:\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  Code wird generiert...
+D:\Cheats\Steamhook\GTA5-Cheat-RAGEMP-ALTV-Steamhook-main\Cheat\src\hacks\memory.cpp(110): warning C4715: "Memory::GetCamera": Nicht alle Codepfade geben einen Wert zurück.
+D:\Cheats\Steamhook\GTA5-Cheat-RAGEMP-ALTV-Steamhook-main\Cheat\src\hacks\memory.cpp(116): warning C4715: "Memory::GetReplayInterface": Nicht alle Codepfade geben einen Wert zurück.
+LINK : warning LNK4075: /INCREMENTAL wird aufgrund der Angabe von /FORCE ignoriert.
+config.obj : warning LNK4006: "void __cdecl SteamOverlay::CreateHook(__int64,__int64,__int64 *)" (?CreateHook@SteamOverlay@@YAX_J0PEA_J@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+config.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::FindPattern(unsigned __int64,char const *,unsigned __int64)" (?FindPattern@SteamOverlay@@YA_K_KPEBD0@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+config.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::GetSteamModule(void)" (?GetSteamModule@SteamOverlay@@YA_KXZ) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+elements.obj : warning LNK4006: "void __cdecl SteamOverlay::CreateHook(__int64,__int64,__int64 *)" (?CreateHook@SteamOverlay@@YAX_J0PEA_J@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+elements.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::FindPattern(unsigned __int64,char const *,unsigned __int64)" (?FindPattern@SteamOverlay@@YA_K_KPEBD0@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+elements.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::GetSteamModule(void)" (?GetSteamModule@SteamOverlay@@YA_KXZ) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+gui.obj : warning LNK4006: "void __cdecl SteamOverlay::CreateHook(__int64,__int64,__int64 *)" (?CreateHook@SteamOverlay@@YAX_J0PEA_J@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+gui.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::FindPattern(unsigned __int64,char const *,unsigned __int64)" (?FindPattern@SteamOverlay@@YA_K_KPEBD0@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+gui.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::GetSteamModule(void)" (?GetSteamModule@SteamOverlay@@YA_KXZ) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+aimbot.obj : warning LNK4006: "void __cdecl SteamOverlay::CreateHook(__int64,__int64,__int64 *)" (?CreateHook@SteamOverlay@@YAX_J0PEA_J@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+aimbot.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::FindPattern(unsigned __int64,char const *,unsigned __int64)" (?FindPattern@SteamOverlay@@YA_K_KPEBD0@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+aimbot.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::GetSteamModule(void)" (?GetSteamModule@SteamOverlay@@YA_KXZ) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+memory.obj : warning LNK4006: "void __cdecl SteamOverlay::CreateHook(__int64,__int64,__int64 *)" (?CreateHook@SteamOverlay@@YAX_J0PEA_J@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+memory.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::FindPattern(unsigned __int64,char const *,unsigned __int64)" (?FindPattern@SteamOverlay@@YA_K_KPEBD0@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+memory.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::GetSteamModule(void)" (?GetSteamModule@SteamOverlay@@YA_KXZ) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+pool.obj : warning LNK4006: "void __cdecl SteamOverlay::CreateHook(__int64,__int64,__int64 *)" (?CreateHook@SteamOverlay@@YAX_J0PEA_J@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+pool.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::FindPattern(unsigned __int64,char const *,unsigned __int64)" (?FindPattern@SteamOverlay@@YA_K_KPEBD0@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+pool.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::GetSteamModule(void)" (?GetSteamModule@SteamOverlay@@YA_KXZ) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+visuals.obj : warning LNK4006: "void __cdecl SteamOverlay::CreateHook(__int64,__int64,__int64 *)" (?CreateHook@SteamOverlay@@YAX_J0PEA_J@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+visuals.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::FindPattern(unsigned __int64,char const *,unsigned __int64)" (?FindPattern@SteamOverlay@@YA_K_KPEBD0@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+visuals.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::GetSteamModule(void)" (?GetSteamModule@SteamOverlay@@YA_KXZ) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+helper.obj : warning LNK4006: "void __cdecl SteamOverlay::CreateHook(__int64,__int64,__int64 *)" (?CreateHook@SteamOverlay@@YAX_J0PEA_J@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+helper.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::FindPattern(unsigned __int64,char const *,unsigned __int64)" (?FindPattern@SteamOverlay@@YA_K_KPEBD0@Z) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+helper.obj : warning LNK4006: "unsigned __int64 __cdecl SteamOverlay::GetSteamModule(void)" (?GetSteamModule@SteamOverlay@@YA_KXZ) ist bereits in "main.obj" definiert; zweite Definition wird ignoriert.
+D:\Cheats\Steamhook\GTA5-Cheat-RAGEMP-ALTV-Steamhook-main\x64\Debug\Cheat.dll : warning LNK4088: Image wird aufgrund der Option /FORCE generiert; Image kann möglicherweise nicht ausgeführt werden.
+  Cheat.vcxproj -> D:\Cheats\Steamhook\GTA5-Cheat-RAGEMP-ALTV-Steamhook-main\x64\Debug\Cheat.dll
